@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tuempresa.api</groupId>
+  <artifactId>MiApi</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20231010.030725</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20231010030725</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20231010.030725-1</value>
+        <updated>20231010030725</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20231010.030725-1</value>
+        <updated>20231010030725</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tuempresa.api</groupId>
+  <artifactId>MiApi</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231010030725</lastUpdated>
+  </versioning>
+</metadata>
